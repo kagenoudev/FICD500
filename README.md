@@ -12,4 +12,4 @@ Although the project initially targeted Nepali currency, the transition to the I
 
 Please note that the project is still under development, and further updates will be shared as we make progress. We appreciate your interest and support in our pursuit of creating an effective counterfeit currency detection solution.
 
-For more information and updates, kindly refer to the project repository and documentation.
+For more information and updates, kindly refer to the project repository and documentation. Application version for iOS and Android are still currently development. Whereas web version will be live under few days.
